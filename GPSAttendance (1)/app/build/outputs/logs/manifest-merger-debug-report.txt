@@ -1,0 +1,219 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\524283ba412d995fd95304b10ae8e41e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d252984a6ce24276097f87310af0fe19\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services:6.5.87] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\play-services-6.5.87.aar\636fdabb228449ba1ee59940b94ee1af\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\6aacc46974b392cfcb3a41d50d82919c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a9a9bca395371db6eb71e01b7769f30e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\96cc283e6ab1dccfcd695a39643dfd4a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\4756ea4f88f3994ff9b5ea2170e0aeab\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\37ee436ec2f346fa0055fc088b190d01\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d9c622b870d11ceba04c8843ed0691a6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\16295657934e2bcb417ac05b4308f404\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2f2407ce8def5573d2aa4dc3fed3f246\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1f69003c731b37e2b99e104e2267a5f9\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:7:22-78
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:9:5-10:65
+	android:value
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:10:9-62
+	android:name
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:9:16-61
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:12:4-14:67
+	android:value
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:14:9-64
+	android:name
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:13:9-54
+application
+ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:16:5-40:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\524283ba412d995fd95304b10ae8e41e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\524283ba412d995fd95304b10ae8e41e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d252984a6ce24276097f87310af0fe19\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d252984a6ce24276097f87310af0fe19\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services:6.5.87] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\play-services-6.5.87.aar\636fdabb228449ba1ee59940b94ee1af\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services:6.5.87] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\play-services-6.5.87.aar\636fdabb228449ba1ee59940b94ee1af\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\6aacc46974b392cfcb3a41d50d82919c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\6aacc46974b392cfcb3a41d50d82919c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a9a9bca395371db6eb71e01b7769f30e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a9a9bca395371db6eb71e01b7769f30e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\96cc283e6ab1dccfcd695a39643dfd4a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\96cc283e6ab1dccfcd695a39643dfd4a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\4756ea4f88f3994ff9b5ea2170e0aeab\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\4756ea4f88f3994ff9b5ea2170e0aeab\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\37ee436ec2f346fa0055fc088b190d01\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\37ee436ec2f346fa0055fc088b190d01\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d9c622b870d11ceba04c8843ed0691a6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d9c622b870d11ceba04c8843ed0691a6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\16295657934e2bcb417ac05b4308f404\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\16295657934e2bcb417ac05b4308f404\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2f2407ce8def5573d2aa4dc3fed3f246\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2f2407ce8def5573d2aa4dc3fed3f246\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1f69003c731b37e2b99e104e2267a5f9\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1f69003c731b37e2b99e104e2267a5f9\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:19:9-41
+	android:roundIcon
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:20:9-54
+	android:icon
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:22:9-40
+activity#com.example.dell1.gps_attendance.SplashActivity
+ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:23:9-29:20
+	android:name
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:23:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.example.dell1.gps_attendance.AdminActivity
+ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:30:9-51
+	android:name
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:30:19-48
+activity#com.example.dell1.gps_attendance.StudentActivity
+ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:31:9-53
+	android:name
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:31:19-50
+activity#com.example.dell1.gps_attendance.AddStudentActivity
+ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:32:9-56
+	android:name
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:32:19-53
+activity#com.example.dell1.gps_attendance.DelStudentActivity
+ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:33:9-56
+	android:name
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:33:19-53
+activity#com.example.dell1.gps_attendance.AddTeacherActivity
+ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:34:9-56
+	android:name
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:34:19-53
+activity#com.example.dell1.gps_attendance.DelTeacherActivity
+ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:35:9-56
+	android:name
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:35:19-53
+activity#com.example.dell1.gps_attendance.LoginActivity
+ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:36:9-51
+	android:name
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:36:19-48
+activity#com.example.dell1.gps_attendance.TeacherActivity
+ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:37:9-53
+	android:name
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:37:19-50
+activity#com.example.dell1.gps_attendance.ClassStartActivity
+ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:38:9-56
+	android:name
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:38:19-53
+activity#com.example.dell1.gps_attendance.LocationActivity
+ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:39:9-63
+	android:name
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml:39:19-51
+uses-sdk
+INJECTED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\524283ba412d995fd95304b10ae8e41e\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\524283ba412d995fd95304b10ae8e41e\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d252984a6ce24276097f87310af0fe19\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d252984a6ce24276097f87310af0fe19\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services:6.5.87] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\play-services-6.5.87.aar\636fdabb228449ba1ee59940b94ee1af\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:6.5.87] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\play-services-6.5.87.aar\636fdabb228449ba1ee59940b94ee1af\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\6aacc46974b392cfcb3a41d50d82919c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\6aacc46974b392cfcb3a41d50d82919c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a9a9bca395371db6eb71e01b7769f30e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a9a9bca395371db6eb71e01b7769f30e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\96cc283e6ab1dccfcd695a39643dfd4a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\96cc283e6ab1dccfcd695a39643dfd4a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\4756ea4f88f3994ff9b5ea2170e0aeab\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\4756ea4f88f3994ff9b5ea2170e0aeab\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\37ee436ec2f346fa0055fc088b190d01\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\37ee436ec2f346fa0055fc088b190d01\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d9c622b870d11ceba04c8843ed0691a6\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d9c622b870d11ceba04c8843ed0691a6\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\16295657934e2bcb417ac05b4308f404\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\16295657934e2bcb417ac05b4308f404\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2f2407ce8def5573d2aa4dc3fed3f246\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2f2407ce8def5573d2aa4dc3fed3f246\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1f69003c731b37e2b99e104e2267a5f9\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1f69003c731b37e2b99e104e2267a5f9\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\524283ba412d995fd95304b10ae8e41e\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Dell1\AndroidStudioProjects\GPSAttendance\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\524283ba412d995fd95304b10ae8e41e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\6aacc46974b392cfcb3a41d50d82919c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\6aacc46974b392cfcb3a41d50d82919c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a9a9bca395371db6eb71e01b7769f30e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a9a9bca395371db6eb71e01b7769f30e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\96cc283e6ab1dccfcd695a39643dfd4a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\96cc283e6ab1dccfcd695a39643dfd4a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\4756ea4f88f3994ff9b5ea2170e0aeab\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\4756ea4f88f3994ff9b5ea2170e0aeab\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\37ee436ec2f346fa0055fc088b190d01\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\37ee436ec2f346fa0055fc088b190d01\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d9c622b870d11ceba04c8843ed0691a6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d9c622b870d11ceba04c8843ed0691a6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\16295657934e2bcb417ac05b4308f404\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\16295657934e2bcb417ac05b4308f404\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2f2407ce8def5573d2aa4dc3fed3f246\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2f2407ce8def5573d2aa4dc3fed3f246\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\524283ba412d995fd95304b10ae8e41e\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\524283ba412d995fd95304b10ae8e41e\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1f69003c731b37e2b99e104e2267a5f9\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1f69003c731b37e2b99e104e2267a5f9\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Dell1\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1f69003c731b37e2b99e104e2267a5f9\AndroidManifest.xml:26:13-58

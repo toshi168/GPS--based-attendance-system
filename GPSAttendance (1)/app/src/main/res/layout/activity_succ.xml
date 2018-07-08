@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context="com.example.dell1.gps_attendance.AdminActivity">
+
+    <LinearLayout
+        android:layout_margin="20dp"
+        android:id="@+id/email_login_form"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <Button
+        android:layout_margin="20dp"
+        android:id="@+id/btnAddStudent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add Student"
+        tools:layout_editor_absoluteX="124dp"
+        tools:layout_editor_absoluteY="91dp" />
+
+    <Button
+        android:layout_margin="20dp"
+        android:id="@+id/btnDelStudent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Delete Student"
+        tools:layout_editor_absoluteX="124dp"
+        tools:layout_editor_absoluteY="163dp" />
+
+    <Button
+        android:layout_margin="20dp"
+        android:id="@+id/btnAddTeacher"
+        android:layout_width="wrap_content"
+        android:layout_height="44dp"
+        android:text="Add Teacher"
+        tools:layout_editor_absoluteX="124dp"
+        tools:layout_editor_absoluteY="248dp" />
+
+        <Button
+            android:layout_margin="20dp"
+            android:id="@+id/btnDelTeacher"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Delete Teacher"
+            tools:layout_editor_absoluteX="124dp"
+            tools:layout_editor_absoluteY="336dp" />
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

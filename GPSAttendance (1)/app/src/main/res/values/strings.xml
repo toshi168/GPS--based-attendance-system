@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">GPS-Attendance</string>
+    <!-- Strings related to login -->
+    <string name="enrollment_id">Enrollment ID</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_enrollmentid">This enrollment ID is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."</string>
+    <string name="select_user_type"> User type</string>
+    <string-array name="sem">
+        <item> 1</item>
+        <item> 2</item>
+        <item> 3</item>
+        <item> 4</item>
+        <item> 5</item>
+        <item> 6</item>
+        <item> 7</item>
+        <item> 8</item>
+    </string-array>
+
+    <string-array name="sub8">
+        <item> Soft Computing:CS801</item>
+        <item> Network Management:CS802</item>
+        <item> Web Engineering:CS803</item>
+        <item> Distributed Systems:CS804</item>
+    </string-array>
+
+    <item name="login" format="integer" type="integer">100</item>
+    <string name="action_mark_attendance">Mark Attendance</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="but_done">Done</string>
+    <string name="title_tab_start_date">Start Date</string>
+    <string name="ttile_tab_end_date">End Date</string>
+
+    <string name="title_activity_main">FingerActivity</string>
+    <string name="title_fingerprint">One Touch</string>
+    <string name="desc_fingerprint">Please Place your FingerPrint</string>
+    <string name="note">Finger Print sign in is Make Your Login Fast</string>
+    <string name="title_activity_home">FingerPrint</string>
+    <string name="activity_home_desc">You Have SuccessFully logged in</string>
+    <string name="activity_home_note">Close and Reopen The app</string>
+
+</resources>

@@ -1,0 +1,4 @@
+#Wed Apr 18 18:42:07 IST 2018
+base.0=C\:\\Users\\Dell1\\AndroidStudioProjects\\GPSAttendance\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\19
+path.0=classes.dex
+renamed.0=classes.dex

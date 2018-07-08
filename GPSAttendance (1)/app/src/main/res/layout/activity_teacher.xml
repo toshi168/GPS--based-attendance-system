@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.dell1.gps_attendance.TeacherActivity"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_margin="20dp"
+        android:id="@+id/txtSem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select Semester"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="110dp" />
+
+
+    <Spinner
+        android:layout_margin="20dp"
+        android:id="@+id/spnSem"
+        android:entries="@array/sem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="156dp" />
+
+    <TextView
+        android:layout_margin="20dp"
+        android:id="@+id/txtSubject"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select Subject"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="206dp" />
+
+    <Spinner
+        android:entries="@array/sub8"
+        android:layout_margin="20dp"
+        android:id="@+id/spnSubject"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="243dp" />
+
+    <Button
+        android:layout_margin="20dp"
+        android:id="@+id/btnStartSession"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start Class"
+        tools:layout_editor_absoluteX="132dp"
+        tools:layout_editor_absoluteY="412dp" />
+
+    <TextView
+        android:layout_margin="20dp"
+        android:id="@+id/txtClassStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

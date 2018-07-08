@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context="com.example.dell1.gps_attendance.AddStudentActivity">
+
+    <LinearLayout
+        android:id="@+id/email_login_form"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/etAddEnrollID"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="20dp"
+            android:clickable="true"
+            android:elevation="4dp"
+            android:ems="10"
+
+            android:hint="Enrollment ID"
+            android:inputType="textPersonName"
+
+            android:maxLines="1"
+            android:padding="10dp"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/etAddStuName"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="20dp"
+            android:clickable="true"
+            android:elevation="4dp"
+            android:ems="10"
+            android:hint="Name"
+            android:inputType="textPersonName"
+
+            android:maxLines="1"
+            android:padding="10dp"
+            android:singleLine="true" />
+
+        <Spinner
+            android:id="@+id/spinSem"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="20dp"
+            android:dropDownWidth="match_parent"
+            android:entries="@array/sem" />
+
+        <EditText
+            android:id="@+id/etAddBranch"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="20dp"
+            android:clickable="true"
+            android:elevation="4dp"
+            android:ems="10"
+            android:hint="Branch"
+            android:inputType="textPersonName"
+
+            android:maxLines="1"
+            android:padding="10dp"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/phAddStu"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="20dp"
+            android:clickable="true"
+            android:elevation="4dp"
+            android:ems="10"
+            android:hint="Phone Number"
+            android:inputType="phone"
+
+            android:maxLines="1"
+            android:padding="10dp"
+            android:singleLine="true" />
+
+        <Button
+            android:id="@+id/btnRegStudent"
+            style="?android:textAppearanceSmall"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="20dp"
+            android:layout_marginTop="20dp"
+            android:background="#C62828"
+            android:text="Add Student"
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>
